@@ -65,7 +65,7 @@ I then started out on the top. I copied the base sketch up to the top of the cas
 All I did after that was connect the grid to the outer section of the sketch, and then it was extruding time.
 I then just extruded it up by about 2mm, making the total height 12mm. I made sure to not connect the top section with the bottom section, so I now had two bodies. The base:
 
-<img width="764" height="497" alt="caseImage" src="https://github.com/user-attachments/assets/9589c27d-973d-46a0-9a6d-e28e90d56413" />
+<img width="761" height="422" alt="caseBottom" src="https://github.com/user-attachments/assets/bf8f2658-e674-4849-a262-82e37bd242ed" />
 
 And the top:
 

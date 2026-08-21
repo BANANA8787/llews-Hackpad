@@ -18,7 +18,7 @@ I have learnt a bit about keyboard design today, especially matrix wiring. It is
 <img width="681" height="353" alt="circuit" src="https://github.com/user-attachments/assets/08d3e613-d921-46b9-87ec-d89016077259" />
 I spent a lot of the time today going around the Hackpad slack seeing what other people had done, as it gave me some examples of where people had wired their components too. I also spent a while checking out the resources and tips section of Hackpad.hackclub as it gave a decent amount of reference material. I have decided to not wire up the switch in the rotary encoder as i dont have a use for it. Hopefully i dont regret that choice. Also, I keep seeing people using little tags at the end of columns and rows and then the same named tags on pins of the chip, I assume those are instead of connecting it with wires to make it look better. I have no idea how to do that though, and I've finished it already anyway.
 
-Hours worked : 4
+Hours worked : 3
 
 23 jul Thursday: finished Kicad
 
@@ -30,7 +30,7 @@ I have spent today routing the whole pcb in kicad. I once again spent a lot of t
 
 Other than that I didn't really do much else. Onto the case!
 
-Hours worked: 5
+Hours worked: 3
 
 25 jul Saturday: started fusion
 
@@ -48,7 +48,7 @@ I then once again extruded the case upwards, and now I just have to figure out h
 
 <img width="764" height="497" alt="caseImage" src="https://github.com/user-attachments/assets/70e0e81b-97ed-4865-b8e2-5efca413b4f8" />
 
-Hours worked: 6
+Hours worked: 5
 
 26 jul sunday
 
@@ -77,7 +77,7 @@ It does look a bit lopsided with the thinness of the edges, but hopefully when t
 
 That's all I did today, time to move on to coding!
 
-Hours worked: 5
+Hours worked: 4
 
 27 jul monday
 
@@ -98,4 +98,10 @@ Time to code! Hopefully this time it actually is!
 
 Hours worked: 1
 
+20 Aug Thursday
 
+I have finished coding. 
+
+Sorry for not doing anything for a bit, but I had a few assignments and stuff so I didn't really have the time to get to coding. I've just now submitted the Hackpad onto Hackpad-ships and I'm figuring out how to submit it onto stardance without timelapses. Hopefully The next journal will have me building it.
+
+hours worked: 3

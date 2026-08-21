@@ -1,7 +1,7 @@
 # LLews Numpad Hackpad
 My Hackpad submission!
 
-The keys are  the Numpad numbers keys with the extra functions like arrow keys. It uses QMK as its firmware. The Hackpad case leaves the left side exposed with the diodes all lined up. It also has a Rotary encoder which is used as a volume knob, and when clicked it mutes the volume.
+The keys are  the Numpad numbers keys with the extra functions like arrow keys. It uses QMK as its firmware. The Hackpad case leaves the left side exposed with the diodes all lined up. It also has a Rotary encoder which is used as a volume knob, and when clicked it mutes the volume. It includes a notch in the case for access to the micro controllers port.
 
 ## Circuit diagram
 <img width="681" height="353" alt="circuit" src="https://github.com/user-attachments/assets/e25e51fd-e201-4237-97db-3ec961219405" />

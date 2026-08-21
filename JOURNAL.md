@@ -92,7 +92,9 @@ Hours worked 3
 
 I've refinished my Hackpad case. 
 
-This was a lot quicker than last time, as I was basically just copying stuff over. I don't really have any pictures to show, as it just looks the same as the original. I have seen that the stardance mission now goes to an actual mission, hopefully i can still use these journals instead of screen recording as proof of the hours.
+This was a lot quicker than last time, as I was basically just copying stuff over. I also added a notch for the USB on the microcontroller. I have seen that the stardance mission now goes to an actual mission, hopefully i can still use these journals instead of screen recording as proof of the hours.
+
+<img width="667" height="373" alt="FullCaseFinal" src="https://github.com/user-attachments/assets/8f17099b-7317-45ae-8851-628e4f9415bb" />
 
 Time to code! Hopefully this time it actually is!
 
@@ -103,5 +105,7 @@ Hours worked: 1
 I have finished coding. 
 
 Sorry for not doing anything for a bit, but I had a few assignments and stuff so I didn't really have the time to get to coding. I've just now submitted the Hackpad onto Hackpad-ships and I'm figuring out how to submit it onto stardance without timelapses. Hopefully The next journal will have me building it.
+
+<img width="1366" height="768" alt="Code" src="https://github.com/user-attachments/assets/8141c6c0-93cf-4c97-b763-a6c159f1ddb9" />
 
 hours worked: 3

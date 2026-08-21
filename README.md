@@ -12,6 +12,7 @@ The keys are  the Numpad numbers keys with the extra functions like arrow keys. 
 ## Full case
 <img width="667" height="373" alt="FullCaseFinal" src="https://github.com/user-attachments/assets/2ba605bf-4c73-4d12-be96-7eda8dbc31a3" />
 
+
 | Top                         | Bottom                            |
 | --------------------------- | --------------------------------- |
 |<img width="746" height="371" alt="caseTop" src="https://github.com/user-attachments/assets/6c1ec021-ef4d-4cdb-a0eb-298dc554d3db" />|<img width="761" height="422" alt="caseBottom" src="https://github.com/user-attachments/assets/fa51c6f6-7f51-4183-9fcb-9174addb54f1" />|

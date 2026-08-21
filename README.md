@@ -16,10 +16,10 @@ The keys are  the Numpad numbers keys with the extra functions like arrow keys. 
 <img width="667" height="373" alt="FullCaseFinal" src="https://github.com/user-attachments/assets/2ba605bf-4c73-4d12-be96-7eda8dbc31a3" />
 
 ## BOM
--Seeed XIAO RP2040
--1N4148 Diodes x9
--MX-Style switches x9
--EC11 Rotary encoders
--white blank DSA keycaps x9
--M3x16mm screws x4
--M3x5mx4mm heatset inserts x4
+- Seeed XIAO RP2040
+- 1N4148 Diodes x9
+- MX-Style switches x9
+- EC11 Rotary encoders
+- white blank DSA keycaps x9
+- M3x16mm screws x4
+- M3x5mx4mm heatset inserts x4
